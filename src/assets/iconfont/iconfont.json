@@ -1,0 +1,44 @@
+{
+  "id": "3271590",
+  "name": "Vue小米有品项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15559706",
+      "name": "微博",
+      "font_class": "shejiaotubiao-42",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "15933094",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "22908386",
+      "name": "品牌标识_苹果",
+      "font_class": "pinpaibiaoshi_pingguo",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "845853",
+      "name": "安全",
+      "font_class": "anquan",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "20000260",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
